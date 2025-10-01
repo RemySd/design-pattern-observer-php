@@ -1,0 +1,17 @@
+{
+    "name": "remysd/symfony-event-dispatcher",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rémy Sd",
+            "email": "remy@eveasoft.com"
+        }
+    ],
+    "require": {
+        "symfony/event-dispatcher": "^7.3"
+    }
+}
